@@ -13,7 +13,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Software Engineering-9cff00?style=flat">
 </p>
 <p>
-I am Kai, a cybersecurity professional from <b>Johor, Malaysia</b> <img src="assets/flags/malaysia-flag.png" alt="Malaysia Flag" width=20 />, currently living in <b>Auckland, New Zealand</b> <img src="assets/flags/new-zealand-flag.png" alt="New Zealand Flag" width=20 />.
+I am Kai, a cybersecurity professional from <b>Johor Bahru, Johor, Malaysia</b> <img src="assets/flags/malaysia-flag.png" alt="Malaysia Flag" width=20 />.
 </p>
 
 <!-- Contact Icons -->
@@ -36,7 +36,7 @@ $ whoami
 Kai\Aspiring-Red-Team-Professional
 
 $ echo PROFILE
-Location   = "Auckland, NZ"
+Location   = "Johor Bahru, Johor, Malaysia"
 Education  = "BSc Computer Science — Universiti Tunku Abdul Rahman"
 Focus      = "Offensive Security | Detection Engineering | Software Engineering"
 Motto      = "Build things, break things, fix things, learn & repeat"
@@ -55,7 +55,7 @@ Email    = "work.wenkai@gmail.com"
 $ cat <<'NOTE_BANNER'
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  NOTE: OPEN TO ROLES — Red Team / Security Engineering       ┃
+┃  NOTE: OPEN TO ROLES — Entry Level Cybersecurity Roles       ┃
 ┃  Actively seeking opportunities.                             ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
