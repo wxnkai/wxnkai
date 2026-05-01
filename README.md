@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="assets/banner/github-header-banner.png" alt="Hero Banner" />
+  <img src="assets/banner/github-header-banner.jpg" alt="Hero Banner" />
 </p>
 
 <!-- About Section -->
